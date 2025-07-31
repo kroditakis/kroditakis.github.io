@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: #"CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,37 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+***MOVERSE PC**,* Thessaloniki, Greece 
+ * Senior Computer Vision and Machine Learning Engineer `March 2024` - `June 2025`
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
+***ITI-CERTH / Visual Computing Lab (VCL)**,* Thessaloniki, Greece 
+ * R&D Engineer  `July 2023` - `February 2024`
+
+
+***FORTH ICS / Computer Vision & Robotics Laboratory (CVRL)**,*  Heraklion Crete, Greece
+ * Graduate (Ph.D. Candidate) Researcher `March 2018` - `July 2023`
+ * Graduate (MSc) Researcher `September 2014` - `November 2017`
+ * R&D Engineer `September 2013` - `August 2014`
+
+
+Education
+======
+* PH.D in Computer Science, University of Crete, CSD, `March 2018 - July 2023, not completed`
+  * **Thesis topic**: *"Methods for visual supervision and guidance of human activities"*
+
+* MSc in Computer Science, University of Crete, CSD, `March 2018 - Novemeber 2017`  
+  * **Thesis topic**: *"Generative 3D Hand Tracking with Spatially Constrained Pose Sampling"*
+
+* B.S. in Computer Science, University of Crete, CSD, `September 2008 - March 2013`
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+* Computer Vison
+* Machine Learning
+* Computer Graphics
 
 Publications
 ======
@@ -47,12 +52,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
+<!--
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -61,4 +62,19 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+-->
+
+## European Projects 
+
+<!-- ADD EMIL -->
+
+- **EMIL-XR: GANIMATEER (HORIZON-CL4-2021-HUMAN-01-06)** - *A toolset for fluent 3D animated character creation.*
+
+- **TRANSMIXR (HORIZON-IA-101070109)** – *Ignite the Immersive Media Sector by Enabling New Narrative Visions.*
+  
+- **Co4Robots (H2020)** – *Achieving Complex Collaborative Missions via Decentralized Control and Coordination of Interacting Robots.*
+- **WEARHAP (FP7-ICT)** – *WEARable HAPtics for Humans and Robots.*
+
+<!--
+## Grants & Scholarships
+-->
