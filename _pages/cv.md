@@ -44,6 +44,7 @@ Skills
 * Programming
 * Computer Vison
 * Machine Learning
+* AI Engineering
 * Computer Graphics
 
 Publications

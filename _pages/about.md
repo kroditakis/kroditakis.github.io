@@ -8,6 +8,18 @@ redirect_from:
 ---
 
 
-I'm a Research Engineer from Crete,  with over a decade of experience in  Computer Vision, Computer Graphics Machine Learning, and Robotics. Specializing in human motion estimation, understanding and 3D reconstruction.
-With a strong foundation in computer science, mathematics and optimization, and hands-on expertise in tools like C++, Cuda, OpenCV, PyTorch and ROS. 
-My work spans the full pipeline—from research and prototyping to production-ready systems—across academic labs and startup enviroments. I’ve contributed to multiple European-funded projects focused on immersive XR, haptic interaction, and human-robot collaboration, leveraging both deep learning and classical techniques. I understand the demands of applied research and the need for solid engineering for building robust perception systems under real-world constraints.
+
+Research Engineer specializing in computer vision, spatial AI, and 3D human motion reconstruction. 10+ yearss of experience bridging theoretical mathematics with high-performance production systems across academic labs and deep-tech startups.
+
+**Core Expertise**
+* Perception & Spatial Computing: 3D human motion estimation, scene reconstruction, pose estimation, and human-robot interaction.
+* Algorithmic Foundations: Optimization, numerical methods, geometric computer vision, and classical techniques coupled with deep learning.
+* Engineering & Performance: End-to-end pipeline development from research prototyping to real-time deployment on edge hardware.
+
+**Technical Stasck**
+
+* Languages & Frameworks: C++, Python, CUDA, PyTorch, OpenCV
+* Robotics & Systems: ROS, Linux, real-time perception frameworks
+* Domain Applications: Immersive XR, haptic feedback systems, collaborative robotics (cobots), and EU-funded research consortia
+* Building robust, low-latency spatial perception systems designed to interpret human intent and movement under real-world physical constraints.
+
