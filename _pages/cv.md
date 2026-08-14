@@ -14,11 +14,14 @@ redirect_from:
 Work experience
 ======
 
-***MOVERSE PC**,* Thessaloniki, Greece 
+***EY***, Athens, Greece 
+ * Senior Technology Consultant, AI & Data `Septmber 2025` - `Now`
+
+***MOVERSE PC***, Thessaloniki, Greece 
  * Senior Computer Vision and Machine Learning Engineer `March 2024` - `June 2025`
 
 
-***ITI-CERTH / Visual Computing Lab (VCL)**,* Thessaloniki, Greece 
+***ITI-CERTH / Visual Computing Lab (VCL)***, Thessaloniki, Greece 
  * R&D Engineer  `July 2023` - `February 2024`
 
 
