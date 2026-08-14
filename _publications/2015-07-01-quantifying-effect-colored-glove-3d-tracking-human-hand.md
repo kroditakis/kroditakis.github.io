@@ -6,7 +6,7 @@ permalink: /publication/2015-07-01-quantifying-effect-colored-glove-3d-tracking-
 excerpt: ''
 date: 2015-07-01
 venue: 'International Conference on Computer Vision Systems (ICVS 2015)'
-paperurl: 'http://users.ics.forth.gr/~argyros/mypapers/2015_07_ICVS_colorglove.pdf'
+paperurl: 'https://users.ics.forth.gr/~argyros/mypapers/2015_07_ICVS_colorglove.pdf'
 citation: 'Konstantinos Roditakis and Antonis A. Argyros, "Quantifying the Effect of a Colored Glove in the 3D Tracking of a Human Hand", In International Conference on Computer Vision Systems (ICVS 2015), Springer, pp. 404-414, Copenhagen, Denmark, July 2015.'
 ---
 

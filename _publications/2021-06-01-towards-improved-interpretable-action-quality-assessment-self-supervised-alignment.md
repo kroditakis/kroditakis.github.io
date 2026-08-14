@@ -6,7 +6,7 @@ permalink: /publication/2021-06-01-towards-improved-interpretable-action-quality
 excerpt: ''
 date: 2021-06-01
 venue: 'HumanInteract Workshop, in conjunction with International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2021)'
-paperurl: 'http://users.ics.forth.gr/~argyros/mypapers/2021_06_PETRA_AQA-Roditakis.pdf'
+paperurl: 'https://users.ics.forth.gr/~argyros/mypapers/2021_06_PETRA_AQA-Roditakis.pdf'
 citation: 'Konstantinos Roditakis, Alexandros Makris and Antonis A. Argyros, "Towards Improved and Interpretable Action Quality Assessment with Self-Supervised Alignment", In HumanInteract Workshop, in conjunction with International Conference on Pervasive Technologies Related to Assistive Environments (PETRA 2021), ACM, Corfu, Greece, June 2021.'
 ---
 

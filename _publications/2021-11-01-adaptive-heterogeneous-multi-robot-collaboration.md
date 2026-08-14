@@ -6,7 +6,7 @@ permalink: /publication/2021-11-01-adaptive-heterogeneous-multi-robot-collaborat
 excerpt: ''
 date: 2021-11-01
 venue: 'Robotics and Autonomous Systems'
-paperurl: 'http://users.ics.forth.gr/ argyros/mypapers/2021_journal_RAS_adaptive_co4robots.pdf'
+paperurl: 'https://users.ics.forth.gr/ argyros/mypapers/2021_journal_RAS_adaptive_co4robots.pdf'
 citation: 'P. Schillinger, S. García, A. Makris, K. Roditakis, M. Logothetis, K. Alevizos, W. Ren, P. Tajvar, P. Pelliccione, A. Argyros, K.J. Kyriakopoulos and D.V. Dimarogonas, "Adaptive heterogeneous multi-robot collaboration from formal task specifications", Robotics and Autonomous Systems, vol. 145, November 2021.'
 ---
 

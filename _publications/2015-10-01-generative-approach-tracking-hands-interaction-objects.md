@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-generative-approach-tracking-hands-interactio
 excerpt: ''
 date: 2015-10-01
 venue: 'Man-Machine Interactions 4 - International Conference on Man-Machine Interactions (ICMMI 2015)'
-paperurl: 'http://users.ics.forth.gr/~argyros/mypapers/2015_10_ICMMI_keynote.pdf'
+paperurl: 'https://users.ics.forth.gr/~argyros/mypapers/2015_10_ICMMI_keynote.pdf'
 citation: 'N. Kyriazis, I. Oikonomidis, P. Panteleris, D. Michel, A. Qammaz, A. Makris, K. Tzevanidis, P. Douvantzis, K. Roditakis and A.A. Argyros, "A Generative Approach to Tracking Hands and Their Interaction with Objects", In Man-Machine Interactions 4 - International Conference on Man-Machine Interactions (ICMMI 2015), Springer, pp. 19-28, Kocierz, Poland, October 2015.'
 ---
 

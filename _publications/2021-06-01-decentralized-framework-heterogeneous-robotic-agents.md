@@ -6,7 +6,7 @@ permalink: /publication/2021-06-01-decentralized-framework-heterogeneous-robotic
 excerpt: ''
 date: 2021-06-01
 venue: 'IEEE Robotics and Automation Magazine'
-paperurl: 'http://users.ics.forth.gr/ argyros/mypapers/2021_journal_RAM_co4robots.pdf'
+paperurl: 'https://users.ics.forth.gr/ argyros/mypapers/2021_journal_RAM_co4robots.pdf'
 citation: 'M. Logothetis, G. Karras, K. Alevizos, C. Verginis, P. Roque, K. Roditakis, A. Makris, S. Garcıa, P. Schillinger, A.D. Fava, P. Pelliccione, A. Argyros, K. Kyriakopoulos and D. Dimarogonas, "A Decentralized Framework for Efficient Cooperation of Heterogeneous Robotic Agents", IEEE Robotics and Automation Magazine, IEEE, vol. 28, no. 2, pp. 74-87, June 2021.'
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2017-09-01-generative-3d-hand-tracking-spatially-constra
 excerpt: ''
 date: 2017-09-01
 venue: 'British Machine Vision Conference (BMVC 2017)'
-paperurl: 'http://users.ics.forth.gr/~argyros/mypapers/2017_09_BMVC_RDSRoditak.pdf'
+paperurl: 'https://users.ics.forth.gr/~argyros/mypapers/2017_09_BMVC_RDSRoditak.pdf'
 citation: 'K. Roditakis, A. Makris and A.A. Argyros, "Generative 3D Hand Tracking with Spatially Constrained Pose Sampling", In British Machine Vision Conference (BMVC 2017), BMVA, London, UK, September 2017.'
 ---
 
