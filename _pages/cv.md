@@ -46,9 +46,10 @@ Skills
 ======
 * Programming
 * Computer Vison
-* Machine Learning
-* AI Engineering
 * Computer Graphics
+* Robotics
+* ML & Deeplearning
+* AI Engineering
 
 Publications
 ======
